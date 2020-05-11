@@ -2,7 +2,7 @@
 body{
     background:#d9e79f;
     font-family: 'Playfair Display', serif;
-    word-break: break-all;
+    overflow-wrap: anywhere;
        
     
 }
@@ -62,6 +62,7 @@ div.todo{
     padding-left: 15px;
     padding-right: 15px;
     padding-bottom: 15px;
+    
 }
 div.todoItem{
     display: flex;
