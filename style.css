@@ -37,7 +37,6 @@ button{
     border-radius: 0 5px 5px 0 ;
     border-left: none;
     width: 50px;
-    
     background: #091834;
     color: #E7F7D4;
     margin: 0px;
@@ -49,7 +48,6 @@ button:hover{
 div.inpButt{
     display:flex;
     justify-content: center;
-    align-items: stretch;
     height: 40px;
 }
 div.todo{
