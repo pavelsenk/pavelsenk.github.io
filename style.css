@@ -2,8 +2,7 @@
 body{
     background:#d9e79f;
     font-family: 'Playfair Display', serif;
-    word-wrap: break-word;
-    overflow-wrap:anywhere;    
+    word-break: break-all;
     
 }
 section{
