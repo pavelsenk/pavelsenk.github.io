@@ -2,8 +2,8 @@
 body{
     background:#d9e79f;
     font-family: 'Playfair Display', serif;
-    overflow-wrap: break-word;
-       
+    word-wrap: break-word;
+    overflow-wrap:anywhere;    
     
 }
 section{
@@ -29,6 +29,7 @@ input{
     background: #E7F7D4;
     color: #5F7091;
     padding-left: 10px;
+    outline: none;
     
 }
 button{
