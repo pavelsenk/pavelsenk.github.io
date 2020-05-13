@@ -45,9 +45,6 @@ button{
 button:hover{
     background: #5F7091;
 }
-div{
-    word-break: break-all;
-}
 div.inpButt{
     display:flex;
     justify-content: center;
